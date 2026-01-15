@@ -21,3 +21,4 @@ text.pack()
 mic.pack() 
 T.pack()  
 
+root.mainloop()
